@@ -1,16 +1,26 @@
-## Hi there 👋
+╔════════════════════════════╗
+   Vũ Mạnh Kỳ
+   IT Student
+   Web Developer
+   Cybersecurity Learner
+╚════════════════════════════╝
 
-<!--
-**kyvu09/kyvu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently Learning
+• JavaScript
+• Linux
+• Web Security
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+HTML • CSS • JavaScript • Git • Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+
+📚 Featured Projects
+- Travel Website
+- English Vocabulary App
+- Video Editing Tool
+
+🎯 2026 Goals
+- Master JavaScript
+- Learn React
+- Learn Web Pentesting
