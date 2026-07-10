@@ -1,43 +1,6 @@
 # Hi there, I'm Vũ Mạnh Kỳ 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyvu09&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyvu09&layout=compact&theme=tokyonight" width="48%" />
-</p>
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1140972359768092722?theme=dark&bg=0d1117&borderRadius=10px" />
-</p>
 ---
-
-## 💻 About Me
-
-```javascript
-const ky = {
-  fullName: "Vũ Mạnh Kỳ",
-  role: "IT Student",
-  location: "Vietnam",
-  currentlyLearning: [
-    "JavaScript",
-    "Linux",
-    "Web Security",
-    "Networking"
-  ],
-  interests: [
-    "Web Development",
-    "Cybersecurity",
-    "Open Source"
-  ],
-  currentProjects: [
-    "Travel Website",
-    "English Vocabulary App",
-    "Video Editing Tool"
-  ],
-  goal: "Become a skilled Web Developer and Cybersecurity Professional"
-};
-```
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
