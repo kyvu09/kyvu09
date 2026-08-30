@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vũ Mạnh Kỳ! 👋</h1>
+<h1 align="center">Hi there, I'm Vũ Mạnh Kỳ!</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Developer;Cybersecurity+%26+Linux+Enthusiast;Always+Learning,+Always+Building" alt="Typing SVG" />
