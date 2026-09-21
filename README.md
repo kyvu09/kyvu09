@@ -14,18 +14,18 @@
 
 </div>
 
-## 👋 About me
+##  About me
 
 Hi, I'm **Vũ Mạnh Kỳ**, an IT student from **Ho Chi Minh City, Vietnam 🇻🇳**.
 
 I enjoy turning ideas into practical software and understanding what happens behind the interface — from web applications and backend services to Linux, networking, and application security.
 
-- 🔭 Currently building projects to strengthen my full-stack development skills
-- 🌱 Learning more about web security, system administration, and networking
-- 🧪 Learning by building, testing, breaking, and improving real projects
-- 🎯 Goal: write software that is useful, maintainable, and secure
+-  Currently building projects to strengthen my full-stack development skills
+-  Learning more about web security, system administration, and networking
+-  Learning by building, testing, breaking, and improving real projects
+-  Goal: write software that is useful, maintainable, and secure
 
-## ⚡ Tech stack
+##  Tech stack
 
 <div align="center">
 
@@ -43,36 +43,36 @@ I enjoy turning ideas into practical software and understanding what happens beh
 
 </div>
 
-## 🚀 Featured projects
+##  Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Learn English Vocabulary</h3>
+      <h3> Learn English Vocabulary</h3>
       <p>Interactive vocabulary learning with quizzes, listening, spelling, and translation exercises.</p>
       <p><code>JavaScript</code> <code>Firebase</code> <code>Firestore</code> <code>Dictionary API</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 Edit Video Tool</h3>
+      <h3> Edit Video Tool</h3>
       <p>AI-assisted video creation workflow covering script generation, voice, visuals, and video processing.</p>
       <p><code>Node.js</code> <code>Express</code> <code>FFmpeg</code> <code>Python</code> <code>AI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌍 Travel Website</h3>
+      <h3> Travel Website</h3>
       <p>A responsive travel website built to practice clean layouts and modern frontend fundamentals.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Memory Card Game</h3>
+      <h3> Memory Card Game</h3>
       <p>A desktop game with multiple levels, scoring, progression, and game history.</p>
       <p><code>C#</code> <code>WinForms</code></p>
     </td>
   </tr>
 </table>
 
-## 📈 GitHub activity
+##  GitHub activity
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=kyvu09&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" alt="GitHub statistics" />
@@ -85,7 +85,7 @@ I enjoy turning ideas into practical software and understanding what happens beh
   <img src="https://streak-stats.demolab.com?user=kyvu09&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub contribution streak" />
 </div>
 
-## 🧭 Currently learning
+##  Currently learning
 
 ```text
 Web development   ███████████████░░░░░   JavaScript · React
@@ -95,7 +95,7 @@ Linux             █████████████░░░░░░   Sy
 English           ████████░░░░░░░░░░░   Communication · TOEIC
 ```
 
-## 💡 My philosophy
+##  My philosophy
 
 <div align="center">
 
@@ -106,7 +106,7 @@ English           ████████░░░░░░░░░░░   Co
 
 </div>
 
-## 🤝 Let's connect
+##  Let's connect
 
 <div align="center">
   <a href="https://github.com/kyvu09">
