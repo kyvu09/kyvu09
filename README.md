@@ -1,84 +1,182 @@
-<h1 align="center">Hi there, I'm Vũ Mạnh Kỳ!</h1>
-
+<!-- =====kỳ đẹp trai vkl ===== -->
+<!-- =====đẳng cấp nhất thế giới có 1 deo có 2 ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Developer;Cybersecurity+%26+Linux+Enthusiast;Always+Learning,+Always+Building" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e3a8a&height=220&section=header&text=Vũ%20Mạnh%20Kỳ&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<br>
+
+<a href="https://github.com/kyvu09">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems.;Learning+Web+Development+%26+Cybersecurity.;Exploring+Linux%2C+Networking+%26+Modern+Web.;Always+Learning.+Always+Building." alt="Typing SVG"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kyvu09&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/kyvu09?label=Followers&style=flat-square&color=2563eb" alt="GitHub Followers"/>
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyvu09&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+---
+
+## 👋 About Me
+
+> **IT student from Ho Chi Minh City, Vietnam 🇻🇳**
+
+I'm passionate about understanding how things work — from **web applications and backend systems** to **Linux, networking, and cybersecurity**.
+
+Currently, I'm focusing on:
+
+* 🌐 **Web Development** — JavaScript, React & modern web technologies
+* 🔐 **Cybersecurity** — Web Pentesting & practical security
+* 🌐 **Networking** — Understanding systems, protocols & infrastructure
+* 🐧 **Linux** — Exploring the command line, system administration & security
+* 🧠 **Problem Solving** — Learning by building real projects
+
+<br>
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,java,cs,html,css&theme=dark" />
 </p>
 
----
+### 🌐 Web & Development
 
-## 👨‍💻 About Me
-
-* 🎓 **IT Student** based in Ho Chi Minh City, Vietnam.
-* 🔐 Passionate about **Web Development**, **Cybersecurity**, and exploring the depths of **Linux**.
-* 🎯 **Current Focus:** Deepening my knowledge in **Web Pentesting**, **Networking**, and mastering **JavaScript/React**.
-* 🤝 Always open to learning new technologies, building practical applications, and discussing tech!
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages & Development
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ### 🛡️ Security & Environment
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Security" />
-</p>
 
-### ⚙️ Tools & Workflows
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🌍 **Travel Website** | A responsive travel website built for learning modern web development. | `HTML`, `CSS`, `JS` |
-| 📚 **English Vocabulary App** | A web application to help learners improve their English vocabulary. | `Web Tech` |
-| 🎮 **Memory Card Game** | A desktop application featuring level progression, scoring systems, and history tracking. | `C# WinForms` |
-| 🎬 **Video Editing Tool** | A simple browser-based video editing utility. | `Web Tech` |
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Learn English Vocabulary
+
+A web application designed to make English vocabulary learning more interactive through quizzes, listening, spelling and translation exercises.
+
+**Stack**
+
+`JavaScript` `Firebase` `Firestore` `Dictionary API`
+
+</td>
+
+<td width="50%">
+
+### 🎬 Edit Video Tool
+
+An AI-assisted video creation tool designed to automate the workflow from script generation to voice, visuals and video processing.
+
+**Stack**
+
+`Node.js` `Express` `FFmpeg` `Python` `AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌍 Travel Website
+
+A responsive travel website created as a practical project for improving modern frontend development skills.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🎮 Memory Card Game
+
+A desktop memory game featuring multiple levels, scoring, progression and game history.
+
+**Stack**
+
+`C#` `WinForms`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity & Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kyvu09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyvu09&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kyvu09&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyvu09&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kyvu09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=kyvu09&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 🧩 Currently Learning
 
-<p align="center">
-  <a href="https://github.com/kyvu09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-<p align="center">
-  <i>⭐ Always learning, always building. ⭐</i>
-</p>
+```text
+Web Development     ███████████████░░░░░   JavaScript / React
+Cybersecurity       ████████████░░░░░░░   Web Pentesting
+Networking          ██████████░░░░░░░░░   TCP/IP / Infrastructure
+Linux               █████████████░░░░░░   System & Security
+English             ████████░░░░░░░░░░░   Communication / TOEIC
+```
+
+---
+
+## 🛠️ My Philosophy
+
+<div align="center">
+
+> **Learn → Build → Break → Fix → Repeat**
+
+I believe the best way to learn technology is not just reading about it,
+but actually **building things, making mistakes, and figuring out why they broke.**
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/kyvu09">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<i>“Always curious. Always learning. Always building.”</i>
+
+</div>
+
+<!-- ===== FOOTER ===== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:111827,100:0f172a&height=120&section=footer" width="100%"/>
