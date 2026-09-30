@@ -1,11 +1,8 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:2563eb&height=230&section=header&text=Vũ%20Mạnh%20Kỳ&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Vũ Mạnh Kỳ" />
-
 <a href="https://github.com/kyvu09">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+useful+things+with+code;Learning+how+systems+work;Web+development+%7C+Linux+%7C+Cybersecurity" alt="Typing introduction" />
 </a>
-
 <p>
   <a href="https://github.com/kyvu09?tab=followers"><img src="https://img.shields.io/github/followers/kyvu09?label=Followers&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="GitHub followers" /></a>
   <a href="https://github.com/kyvu09?tab=repositories"><img src="https://img.shields.io/github/stars/kyvu09?affiliations=OWNER&style=for-the-badge&color=f59e0b&labelColor=0f172a" alt="GitHub stars" /></a>
