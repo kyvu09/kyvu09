@@ -28,11 +28,11 @@ I enjoy turning ideas into practical software and understanding what happens beh
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,python,java,cs,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,python,cs,html,css&theme=dark" alt="Languages" />
 
 ### Web, database & tools
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,firebase,git,github,vscode&theme=dark" alt="Web development tools" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,firebase,git,github&theme=dark" alt="Web development tools" />
 
 ### Security & environment
 
