@@ -83,7 +83,11 @@ I enjoy turning ideas into practical software and understanding what happens beh
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyvu09/kyvu09/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="900" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyvu09/kyvu09/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyvu09/kyvu09/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/kyvu09/kyvu09/output/github-contribution-grid-snake.svg" width="900" />
+  </picture>
 </p>
 
 ##  Currently learning
@@ -118,6 +122,4 @@ English           ████████░░░░░░░░░░░   Co
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:172554,100:0f172a&height=120&section=footer" width="100%" alt="Footer" />
-<p align="center">
-<img src="https://raw.githubusercontent.com/kyvu09/kyvu09/main/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
+
