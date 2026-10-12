@@ -27,7 +27,7 @@ jobs:
             dist/github-contribution-grid-snake.gif
 
       - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.5.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
