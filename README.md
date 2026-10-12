@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:2563eb&height=230&section=header&text=Vũ%20Mạnh%20Kỳ&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Vũ Mạnh Kỳ" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:2563eb&height=230&section=header&text=Vũ%20Mạnh%20Kỳ&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer&descSize=18&fontAlignX=20&descColor=bfdbfe&animation=twinkling" alt="Banner" />
 <a href="https://github.com/kyvu09">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+useful+things+with+code;Learning+how+systems+work;Web+development+%7C+Linux+%7C+Cybersecurity" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+useful+things+with+code;Learning+by+doing;Turning+ideas+into+real+projects;Improving+skills+every+day" alt="Typing SVG" />
 </a>
 <p>
   <a href="https://github.com/kyvu09?tab=followers"><img src="https://img.shields.io/github/followers/kyvu09?label=Followers&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="GitHub followers" /></a>
@@ -72,7 +72,7 @@ I enjoy turning ideas into practical software and understanding what happens beh
 ##  GitHub activity
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=kyvu09&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" alt="GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=kyvu09&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&hide_title=false&hide_rank=false" alt="GitHub stats" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyvu09&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" alt="Top languages" />
 </div>
 
@@ -81,6 +81,10 @@ I enjoy turning ideas into practical software and understanding what happens beh
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kyvu09&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub contribution streak" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyvu09/kyvu09/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="900" />
+</p>
 
 ##  Currently learning
 
