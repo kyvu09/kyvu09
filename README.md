@@ -120,6 +120,4 @@ English           ████████░░░░░░░░░░░   Co
   <br /><br />
   <i>Always curious. Always learning. Always building.</i>
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:172554,100:0f172a&height=120&section=footer" width="100%" alt="Footer" />
-
