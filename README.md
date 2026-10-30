@@ -8,7 +8,6 @@
   <a href="https://github.com/kyvu09?tab=repositories"><img src="https://img.shields.io/github/stars/kyvu09?affiliations=OWNER&style=for-the-badge&color=f59e0b&labelColor=0f172a" alt="GitHub stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=kyvu09&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </p>
-
 </div>
 
 ##  About me
